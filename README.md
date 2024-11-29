@@ -1,6 +1,10 @@
 # DeFidelity
 DeFidelity is used to mass-decrease fidelity of WAV files recursively in subdirectories. 
 
+## install ffmpeg first
+1. Open Powershell
+2. type ```winget install ffmpeg```
+
 ## Example usage
 
 ```
